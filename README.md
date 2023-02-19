@@ -4,7 +4,7 @@
 
 这里是一个
 
-# [案例库](./promptsmagazine.md)
+# [案例库](./PromptsMagazine.md)
 
 ### 借鉴已有的案例，我们能更好的使用ChatGPT
 
