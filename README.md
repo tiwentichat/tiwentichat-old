@@ -62,14 +62,11 @@ ChatGPT这个工具最强大之处在于：<b>这个工具可以教你怎样使�
 
 # [案例库](./PromptsMagazine.md)
 
-如果还想进一步了解详细和高阶的ChatGPT使用技巧，可以关注<b>微信公众号 王建硕</b>，接下来建硕老师会有关于如何使用ChatGPT的系列课程发布~
+如果还想进一步了解详细和高阶的ChatGPT使用技巧，那就：
 
-<img src="https://user-images.githubusercontent.com/12545744/219936315-458cd2bd-284c-47c3-9761-1dad91876821.jpeg" width="360">
+关注<b>微信公众号 王建硕</b>，接下来建硕老师会有关于如何使用ChatGPT的系列课程发布~  以及，欢迎加入讨论群分享你的新发现 :smile:
 
-
-也欢迎在这个群里分享你在使用ChatGPT过程中的案例
-
-<img src="https://user-images.githubusercontent.com/125454744/219936315-458cd2bd-284c-47c3-9761-1dad91876821.jpeg" width="360">
+<img src="https://user-images.githubusercontent.com/125454744/219959206-dee2afaa-1a2d-4819-938a-289f04a51af3.jpeg" height="300">
 
 #### 为什么使用ChatGPT
 
