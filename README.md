@@ -106,5 +106,7 @@ ChatGPT这个工具最强大之处在于：<b>这个工具可以教你怎样使�
 
 [https://gpt3demo.com/](https://gpt3demo.com/)
 
+[https://flowgpt.com](https://flowgpt.com)
+
 以及[OpenAI](https://openai.com/) 提供的Prompts Library
 
