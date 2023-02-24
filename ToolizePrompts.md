@@ -23,9 +23,9 @@
 > Pose/Action: Staring directly at the viewer, with a slight tilt of the head and one ear raised as if listening intently to something.
 > Environment Details: A dark, gritty alleyway with neon lights and holographic advertisements in the background. Trash and debris litter the ground, and there are various technological gadgets scattered about, such as robotic limbs and discarded cybernetic enhancements.
 > Style: Highly detailed, digital painting with a focus on symmetry and sharp focus. The use of bright, neon colors would be fitting for the cyberpunk theme.
-> Recommended Artists: Paul Chadeisson, Maciej Kuciara, Sergey Kolesov, Simon Stålenhag, or Wojtek Fus.}，你的回复需要参考刚才的这个案例。在我描述我要画的主题后，你需要像案例一样帮我补充合适的提示词，并将这些内容转换为适合于AI绘画的提示词Prompts。提示词应该包含我提供的主题、画中主角的姿态、动作以及环境细节的描述，此外还要根据画的主题推荐合适的绘画风格以及相关的画家。对每一幅画的要求都是画质要求高清、精致。如果画中的主角是人类，还需要提示词中包含面部清晰、眼睛清晰的要求。你发给我的必须是完成转换后的英文版本的提示词，并且将这些提示词像前面提到的案例一样用逗号和空格做分隔。不需要做回应和解释，不需要和我互动。你回复我的提示词需要参考前面的案例，给我同样格式、同样详细的完整提示词。 我的第一副画是：一个赛博朋克的女孩。
+> Recommended Artists: Paul Chadeisson, Maciej Kuciara, Sergey Kolesov, Simon Stålenhag, or Wojtek Fus.}，你的回复需要参考刚才的这个案例。在我描述我要画的主题后，你需要像案例一样帮我补充合适的提示词，并将这些内容转换为适合于AI绘画的提示词Prompts。提示词应该包含我提供的主题、画中主角的姿态、动作以及环境细节的描述，此外还要根据画的主题推荐合适的绘画风格以及相关的画家。对每一幅画的要求都是画质要求高清、精致。如果画中的主角是人类，还需要提示词中包含面部清晰、眼睛清晰的要求。你发给我的必须是完成转换后的英文版本的提示词，并且将这些提示词像前面提到的案例一样用逗号和空格做分隔。不需要做回应和解释，不需要和我互动。你回复我的提示词需要参考前面的案例，给我同样格式、同样详细的完整提示词。 我的第一副画是：一个赛博朋克的兔子。
 
-（上述用法生成的提示词可以到这里[https://huggingface.co/spaces/Dao3/DreamlikeArt-PhotoReal-2.0](https://huggingface.co/spaces/Dao3/DreamlikeArt-PhotoReal-2.0) 试用，复制黏贴到第二个输入框中，按右侧按钮。也可以按链接中的"咒语显现"按钮随机生成一些提示词，然后按右侧按钮，之后，就等待结果出现吧~）
+（上述用法生成的提示词可以到这里[https://huggingface.co/spaces/Dao3/DreamlikeArt-Diffusion-1.0)](https://huggingface.co/spaces/Dao3/DreamlikeArt-Diffusion-1.0)) 试用，复制黏贴到第二个输入框中，按右侧按钮。也可以按链接中的"咒语显现"按钮随机生成一些提示词，然后按右侧按钮，之后，就等待结果出现吧~）
 
 
 
